@@ -27,7 +27,7 @@ The dataset to be used for this project can be found on Hugging Face:
 
 ## Getting Started
 
-1. **Clone the repository**:
+1. **Clone/Fork the repository**:
     ```bash
     git clone <repository-url>
     cd <repository-directory>
@@ -58,7 +58,7 @@ The dataset to be used for this project can be found on Hugging Face:
 
 - Ensure all code is well-documented and follows best practices.
 - Create a detailed report explaining your approach, challenges faced, and how you overcame them. Let it be brief.
-- Submit your final code and report as a zip file. The links to the weights on the HuggingFace should also be present in your report.
+- Submit your final code and report by providing us the links to your repositories. The links to the weights on the HuggingFace should also be present in your report.
 
 We look forward to seeing your innovative solutions and welcoming you to the DIAS Project team!
 
